@@ -29,10 +29,6 @@ Authenticated tools (reserve subdomain, upload zip, clear, release) require a Be
 - `clear_site` — Remove deployed content; subdomain stays reserved (token required).
 - `release_subdomain` — Release your subdomain (token required).
 
-## Setup and deployment
-
-See **[SETUP.md](SETUP.md)** for hosting setup (Node.js, MySQL, env vars, FTP, etc.).
-
 ## License
 
 See [LICENSE](LICENSE).
