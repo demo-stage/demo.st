@@ -1,0 +1,10 @@
+node_modules/
+.env
+.server.pid
+key.pem
+dkim-*.pem
+mcp-publisher.exe
+mcp-publisher.tar.gz
+
+# Cursor MCP config may contain tokens — do not commit from repo root
+# .cursor/mcp.json

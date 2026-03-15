@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "demo-st": {
+      "url": "https://demo.st/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:DEMO_ST_MCP_TOKEN}"
+      }
+    }
+  }
+}

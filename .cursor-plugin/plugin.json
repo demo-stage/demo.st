@@ -1,0 +1,13 @@
+{
+  "name": "demo-st",
+  "version": "1.0.0",
+  "description": "Reserve a subdomain on demo.st, upload a zip via MCP, and get a live link like yourproject.demo.st. MCP-native hosting for AI-built demos.",
+  "author": {
+    "name": "demo.st"
+  },
+  "keywords": ["mcp", "hosting", "subdomain", "deploy", "demo", "streamable-http"],
+  "repository": "https://github.com/demo-stage/demo.st",
+  "homepage": "https://demo.st",
+  "logo": "assets/logo.svg",
+  "mcpServers": ".mcp.json"
+}
