@@ -25,7 +25,7 @@ Authenticated tools (reserve subdomain, upload zip, clear, release) require a Be
 
 - `check_subdomain_availability` — Check if a subdomain is available (no token).
 - `reserve_subdomain` — Reserve a subdomain (token required).
-- `upload_site` — Upload a .zip as site content; use `file_url` for a public zip URL (token required).
+- `upload_site` — Upload a .zip as site content; use `zip_base64` (easiest for agents) or `file_url` for a public zip URL (token required).
 - `clear_site` — Remove deployed content; subdomain stays reserved (token required).
 - `release_subdomain` — Release your subdomain (token required).
 
